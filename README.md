@@ -1,12 +1,29 @@
-# React + Vite
+# 📰 Mega Blog Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **fully functional blogging platform** built using **React.js** as part of [Hitesh Choudhary's React.js series](https://www.youtube.com/@chaiaurcode).  
+This project demonstrates the use of React fundamentals, routing, props, reusable components, and state management — all wrapped into a beautiful and modern blog UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🧠 **Dynamic Blog Rendering** – Renders blogs dynamically using JSON data or APIs.  
+- 🗺️ **React Router Integration** – Enables seamless navigation between Home, Blog, and Single Post pages.  
+- 📦 **Reusable Components** – Modular architecture for scalability and maintainability.  
+- 💅 **Responsive Design** – Looks great on all screen sizes (mobile, tablet, desktop).  
+- ⚡ **Optimized State Management** – Efficient data flow using props and hooks.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🏗️ Tech Stack
+
+| Layer | Technology |
+|--------|-------------|
+| Frontend | React.js |
+| Styling | Tailwind CSS / CSS Modules |
+| Routing | React Router DOM |
+| Data | Local JSON / API integration |
+
+---
+
+
